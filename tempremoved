@@ -1,0 +1,2 @@
+// Template (create html elements with children content and one attribute with value and name of attribute)
+nixt("#app").template("h1", {attributeName: "id", attributeValue:"myId"}, "Hello World").render();

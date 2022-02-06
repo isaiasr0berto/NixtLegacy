@@ -3,7 +3,7 @@ The repository for the NixtJS Legacy Edition (Which is intended to be a fast rep
 
 Very small javascript library, to replace the basic functions of jQuery...
 
-## 1.05 Beta
+## 1.05.01 BETA
 
 ## Use:
 
@@ -32,8 +32,6 @@ nixt("#text").append("Text Append... ");
 // Set Attributes
 nixt("form").setAttribute("method", "post");
 
-// Template (create html elements with children content and one attribute with value and name of attribute)
-nixt("#app").template("h1", {attributeName: "id", attributeValue:"myId"}, "Hello World").render();
 
 // Hide element in DOM
 nixt("div#text").hide();
