@@ -81,6 +81,6 @@ nixt("button").click(function(){
 });
 ~~~
 
-###### Just that, in the future I plan to add functions equivalent to toggle() and ajax()... suggestions, criticisms, etc. are always welcome.
+##### Just that, in the future I plan to add functions equivalent to ajax()... suggestions, criticisms, etc. are always welcome.
 
-A big thank you to my friend Kawan, check at profile in [K4w4n's GitHub Profile](https://github.com/K4w4n) <3
+A big thank you to my friend Kawan, check at profile in [K4w4n's GitHub Profile](https://github.com/K4w4n)
