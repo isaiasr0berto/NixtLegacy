@@ -57,6 +57,8 @@ https://www.w3schools.com/jsref/dom_obj_style.asp
 
 */
 
+var NixtReady = () => true; // serve para verificar por fontes externas se o nixt está mesmo alí :)
+
 const nixt = (proto) => ({
     html: function (themVar) {
         let a = document.querySelectorAll(proto).length;
